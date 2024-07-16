@@ -27,7 +27,7 @@ const Register = () => {
                 <input class="w-full p-2 bg-gray-50 rounded-full font-bold text-gray-900 border border-gray-700 cursor-pointer hover:bg-blue-500 hover:text-white transition-all duration-0.4" type="submit" id=""/>
                 
 
-                <p>Already have an account?<a class="font-semibold text-sky-700" ><Link to="/login">Login</Link></a> </p>
+                <p>Already have an account?<a class="font-semibold text-sky-700" href="#"><Link to="/login">Login</Link></a> </p>
             </div>
 
 
